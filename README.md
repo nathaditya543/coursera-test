@@ -1,2 +1,2 @@
 # coursera-test
-Wassup
+coursera test repository
